@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Bad Design
 ---
 ## An Example of Bad Design: _Williams Course Catalog_
