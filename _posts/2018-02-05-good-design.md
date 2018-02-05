@@ -1,13 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Good Design
 ---
----
-title: Good Design
-subtitle: example of good design
 
----
 ### An Example of Good Design: _Sawyer Library_
 ​
 ![Sawyer Library (c) www.architectmagazine.com]({{site.baseurl}}/img/sawyer_library_east.jpeg)
