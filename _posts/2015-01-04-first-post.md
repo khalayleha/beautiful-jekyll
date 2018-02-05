@@ -5,7 +5,7 @@ image: /img/hello_world.jpeg
 published: true
 ---
 
-##An Example of Good Design: _Sawyer Library_
+### An Example of Good Design: _Sawyer Library_
 
 ![Sawyer Library (c) www.architectmagazine.com]({{site.baseurl}}/https://cdnassets.hw.net/dims4/GG/77a8a45/2147483647/thumbnail/876x580%3E/quality/90/?url=https%3A%2F%2Fcdnassets.hw.net%2Fe4%2Ff3%2Ffd13e68341da832766cc364dd0ad%2Fbohlin-cywinski-jackson-sawyer-library-01.jpg)
 
