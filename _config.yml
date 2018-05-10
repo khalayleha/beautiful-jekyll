@@ -24,7 +24,7 @@ description: Ahmed Khalayleh
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Design Manifesto: "Design-Manifesto.md"
+  Design Manifesto: "Design-Manifesto"
   Project: "http://www.grchen.com/thisprojectistrash/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
